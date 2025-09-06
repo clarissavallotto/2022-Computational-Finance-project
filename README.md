@@ -239,8 +239,6 @@ The full process repeats:
 * CAPM regression uses `regstats` from the Statistics Toolbox.
 * Axis limits (`xlim`, `ylim`) are adjusted for readability; modify if data ranges differ.
 
-# --------------------------------------------------
-
 # TacticalChoices.m
 
 ## Tactical Choices Portfolio Analysis (Monthly Data)
